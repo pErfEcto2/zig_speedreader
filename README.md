@@ -4,6 +4,7 @@ Requirements:
 
 `zig`
 
+To install zig see [official installation page](https://ziglang.org/learn/getting-started/#installing-zig)
 
 Installation:
 
